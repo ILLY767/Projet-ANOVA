@@ -37,7 +37,7 @@ Le projet suit une démarche structurée en 5 étapes clés :
 ## 🎓 Auteurs
 * **ILLY Jacques** - *Élève Ingénieur Statisticien*
 * **ZINABA Albert** - *Élève Ingénieur Statisticien*
-* **Sous la direction de** : M. A. Carlos (Enseignant)
+* **Sous la direction de** : M.  A. Carlos (Enseignant)
 
 ---
 *Projet réalisé dans le cadre du module "Analyse de la Variance" - 2026*
